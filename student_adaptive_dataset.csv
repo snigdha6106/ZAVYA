@@ -1,0 +1,1001 @@
+Student_ID,Subject,Current_Topic,Score,Skill_Level,Next_Recommended_Topic
+1,OS,Deadlocks,12,beginner,Scheduling
+2,OS,Processes,74,advanced,Threads
+3,Data Structures,Graph,36,beginner,Heap
+4,AI/ML,KNN,99,advanced,Neural Networks
+5,OS,Threads,12,beginner,Processes
+6,DSA,Arrays,58,intermediate,Linked List
+7,Python,Modules,46,intermediate,Error Handling
+8,Python,Loops,48,intermediate,Functions
+9,Python,File Handling,93,advanced,Modules
+10,DSA,Graphs,3,beginner,Trees
+11,Java,Variables,8,beginner,Variables
+12,Data Structures,Linked List,79,advanced,Stack
+13,Java,OOP Concepts,94,advanced,Collections
+14,OS,Virtual Memory,3,beginner,Deadlocks
+15,OS,Memory Management,96,advanced,File Systems
+16,OOP,Classes,50,intermediate,Objects
+17,OOP,Polymorphism,21,beginner,Inheritance
+18,Data Structures,Hash Table,12,beginner,Queue
+19,Java,Exceptions,84,advanced,Streams
+20,Data Structures,Stack,14,beginner,Linked List
+21,OOP,Objects,57,intermediate,Inheritance
+22,Data Structures,Hash Table,96,advanced,Heap
+23,Python,Modules,28,beginner,File Handling
+24,OOP,Classes,29,beginner,Classes
+25,AI/ML,Neural Networks,20,beginner,KNN
+26,OS,Deadlocks,74,advanced,Virtual Memory
+27,AI/ML,Decision Trees,82,advanced,SVM
+28,OS,File Systems,80,advanced,Scheduling
+29,Python,Loops,43,intermediate,Functions
+30,OS,File Systems,5,beginner,Memory Management
+31,Data Structures,Queue,76,advanced,Hash Table
+32,DSA,Sorting Algorithms,83,advanced,Sorting Algorithms
+33,AI/ML,Logistic Regression,3,beginner,Linear Regression
+34,Java,Exceptions,30,beginner,Collections
+35,Java,Exceptions,31,beginner,Collections
+36,Data Structures,Linked List,67,intermediate,Stack
+37,Data Structures,Hash Table,6,beginner,Queue
+38,Python,OOP Basics,86,advanced,File Handling
+39,DSA,Sorting Algorithms,3,beginner,Graphs
+40,OS,Scheduling,38,beginner,File Systems
+41,Java,Loops,51,intermediate,Methods
+42,OS,Processes,37,beginner,Processes
+43,Java,Exceptions,40,beginner,Collections
+44,AI/ML,Neural Networks,87,advanced,Clustering
+45,OOP,Polymorphism,25,beginner,Inheritance
+46,OOP,Inheritance,53,intermediate,Polymorphism
+47,Java,Collections,63,intermediate,Exceptions
+48,Python,Modules,48,intermediate,Error Handling
+49,DSA,Graphs,55,intermediate,Sorting Algorithms
+50,OS,Processes,31,beginner,Processes
+51,Data Structures,Heap,27,beginner,Hash Table
+52,Python,Functions,14,beginner,Loops
+53,AI/ML,Decision Trees,10,beginner,Logistic Regression
+54,AI/ML,Decision Trees,30,beginner,Logistic Regression
+55,OOP,Objects,48,intermediate,Inheritance
+56,OS,Processes,6,beginner,Processes
+57,DSA,Trees,75,advanced,Graphs
+58,DSA,Queues,15,beginner,Stacks
+59,Python,Variables,95,advanced,Loops
+60,DSA,Trees,97,advanced,Graphs
+61,Data Structures,Heap,86,advanced,Graph
+62,Python,OOP Basics,28,beginner,Functions
+63,AI/ML,Logistic Regression,44,intermediate,Decision Trees
+64,OOP,Objects,32,beginner,Classes
+65,OOP,Interfaces,18,beginner,Abstraction
+66,OOP,Encapsulation,56,intermediate,Abstraction
+67,DSA,Stacks,51,intermediate,Queues
+68,AI/ML,Decision Trees,84,advanced,SVM
+69,AI/ML,Decision Trees,42,intermediate,SVM
+70,AI/ML,Neural Networks,100,advanced,Clustering
+71,Python,Functions,89,advanced,OOP Basics
+72,OS,Deadlocks,42,intermediate,Virtual Memory
+73,AI/ML,Logistic Regression,37,beginner,Linear Regression
+74,AI/ML,Decision Trees,73,advanced,SVM
+75,DSA,Trees,21,beginner,Queues
+76,Python,Modules,13,beginner,File Handling
+77,Python,Loops,83,advanced,Functions
+78,Data Structures,Linked List,18,beginner,Arrays
+79,AI/ML,KNN,75,advanced,Neural Networks
+80,AI/ML,KNN,47,intermediate,Neural Networks
+81,OS,Processes,71,advanced,Threads
+82,OS,Virtual Memory,87,advanced,Virtual Memory
+83,AI/ML,KNN,2,beginner,SVM
+84,DSA,Arrays,86,advanced,Linked List
+85,OS,Threads,45,intermediate,Memory Management
+86,OOP,Abstraction,56,intermediate,Interfaces
+87,DSA,Trees,36,beginner,Queues
+88,Java,Methods,75,advanced,OOP Concepts
+89,OS,Deadlocks,34,beginner,Scheduling
+90,AI/ML,Clustering,52,intermediate,Clustering
+91,OS,Processes,30,beginner,Processes
+92,AI/ML,SVM,100,advanced,KNN
+93,Python,Loops,42,intermediate,Functions
+94,DSA,Linked List,41,intermediate,Stacks
+95,Python,Modules,5,beginner,File Handling
+96,Python,Loops,99,advanced,Functions
+97,OOP,Abstraction,79,advanced,Interfaces
+98,Python,Modules,95,advanced,Error Handling
+99,Java,Variables,92,advanced,Loops
+100,DSA,Linked List,49,intermediate,Stacks
+101,OOP,Objects,62,intermediate,Inheritance
+102,AI/ML,Logistic Regression,83,advanced,Decision Trees
+103,OOP,Polymorphism,90,advanced,Encapsulation
+104,Data Structures,Queue,86,advanced,Hash Table
+105,AI/ML,Decision Trees,25,beginner,Logistic Regression
+106,Java,Exceptions,15,beginner,Collections
+107,OS,File Systems,53,intermediate,Scheduling
+108,OS,Threads,93,advanced,Memory Management
+109,Data Structures,Heap,83,advanced,Graph
+110,Python,Variables,15,beginner,Variables
+111,OS,Scheduling,97,advanced,Deadlocks
+112,AI/ML,Decision Trees,26,beginner,Logistic Regression
+113,OS,Processes,42,intermediate,Threads
+114,OOP,Objects,34,beginner,Classes
+115,OS,Threads,59,intermediate,Memory Management
+116,OOP,Abstraction,26,beginner,Encapsulation
+117,Data Structures,Arrays,32,beginner,Arrays
+118,Data Structures,Hash Table,80,advanced,Heap
+119,DSA,Stacks,23,beginner,Linked List
+120,AI/ML,KNN,28,beginner,SVM
+121,DSA,Stacks,14,beginner,Linked List
+122,AI/ML,KNN,1,beginner,SVM
+123,Python,Error Handling,40,beginner,Modules
+124,DSA,Stacks,17,beginner,Linked List
+125,OS,Virtual Memory,85,advanced,Virtual Memory
+126,OS,Deadlocks,21,beginner,Scheduling
+127,AI/ML,Neural Networks,78,advanced,Clustering
+128,Data Structures,Stack,60,intermediate,Queue
+129,DSA,Arrays,87,advanced,Linked List
+130,Java,OOP Concepts,76,advanced,Collections
+131,OS,Memory Management,84,advanced,File Systems
+132,Data Structures,Hash Table,33,beginner,Queue
+133,OOP,Encapsulation,82,advanced,Abstraction
+134,OOP,Inheritance,17,beginner,Objects
+135,Java,Collections,78,advanced,Exceptions
+136,AI/ML,Neural Networks,79,advanced,Clustering
+137,Java,OOP Concepts,71,advanced,Collections
+138,Data Structures,Queue,75,advanced,Hash Table
+139,DSA,Stacks,16,beginner,Linked List
+140,OS,Processes,87,advanced,Threads
+141,Python,File Handling,35,beginner,OOP Basics
+142,Java,Methods,62,intermediate,OOP Concepts
+143,Python,OOP Basics,48,intermediate,File Handling
+144,OOP,Polymorphism,2,beginner,Inheritance
+145,OS,Virtual Memory,39,beginner,Deadlocks
+146,Python,Error Handling,84,advanced,Error Handling
+147,DSA,Queues,20,beginner,Stacks
+148,Data Structures,Hash Table,4,beginner,Queue
+149,AI/ML,Clustering,54,intermediate,Clustering
+150,DSA,Graphs,11,beginner,Trees
+151,DSA,Graphs,100,advanced,Sorting Algorithms
+152,Java,Collections,34,beginner,OOP Concepts
+153,OS,Memory Management,22,beginner,Threads
+154,Data Structures,Stack,52,intermediate,Queue
+155,Python,Modules,10,beginner,File Handling
+156,AI/ML,KNN,94,advanced,Neural Networks
+157,AI/ML,SVM,66,intermediate,KNN
+158,OS,Virtual Memory,41,intermediate,Virtual Memory
+159,Java,Methods,99,advanced,OOP Concepts
+160,Java,Methods,100,advanced,OOP Concepts
+161,Java,Collections,20,beginner,OOP Concepts
+162,DSA,Linked List,20,beginner,Arrays
+163,OOP,Abstraction,43,intermediate,Interfaces
+164,OS,Deadlocks,84,advanced,Virtual Memory
+165,Java,Collections,51,intermediate,Exceptions
+166,DSA,Stacks,11,beginner,Linked List
+167,OOP,Interfaces,2,beginner,Abstraction
+168,AI/ML,Decision Trees,19,beginner,Logistic Regression
+169,Data Structures,Graph,30,beginner,Heap
+170,Data Structures,Stack,17,beginner,Linked List
+171,Data Structures,Arrays,68,intermediate,Linked List
+172,OOP,Interfaces,38,beginner,Abstraction
+173,Java,Methods,69,intermediate,OOP Concepts
+174,Data Structures,Hash Table,50,intermediate,Heap
+175,Python,Error Handling,83,advanced,Error Handling
+176,OOP,Classes,82,advanced,Objects
+177,Java,Exceptions,84,advanced,Streams
+178,DSA,Queues,52,intermediate,Trees
+179,Java,Methods,64,intermediate,OOP Concepts
+180,OOP,Objects,98,advanced,Inheritance
+181,DSA,Stacks,81,advanced,Queues
+182,DSA,Sorting Algorithms,37,beginner,Graphs
+183,OOP,Objects,14,beginner,Classes
+184,Python,Functions,78,advanced,OOP Basics
+185,AI/ML,SVM,96,advanced,KNN
+186,OS,Scheduling,38,beginner,File Systems
+187,OS,Deadlocks,88,advanced,Virtual Memory
+188,OOP,Polymorphism,18,beginner,Inheritance
+189,Data Structures,Graph,15,beginner,Heap
+190,AI/ML,Linear Regression,68,intermediate,Logistic Regression
+191,DSA,Graphs,87,advanced,Sorting Algorithms
+192,OOP,Encapsulation,83,advanced,Abstraction
+193,OS,File Systems,47,intermediate,Scheduling
+194,Data Structures,Linked List,2,beginner,Arrays
+195,Java,Exceptions,37,beginner,Collections
+196,DSA,Trees,97,advanced,Graphs
+197,DSA,Graphs,16,beginner,Trees
+198,OS,Deadlocks,5,beginner,Scheduling
+199,OS,Processes,14,beginner,Processes
+200,AI/ML,KNN,11,beginner,SVM
+201,Python,Modules,77,advanced,Error Handling
+202,OOP,Abstraction,57,intermediate,Interfaces
+203,Data Structures,Linked List,93,advanced,Stack
+204,Python,Loops,6,beginner,Variables
+205,Data Structures,Graph,20,beginner,Heap
+206,DSA,Arrays,56,intermediate,Linked List
+207,Python,Variables,15,beginner,Variables
+208,DSA,Trees,62,intermediate,Graphs
+209,OOP,Objects,63,intermediate,Inheritance
+210,Data Structures,Arrays,42,intermediate,Linked List
+211,Python,Loops,59,intermediate,Functions
+212,AI/ML,Logistic Regression,34,beginner,Linear Regression
+213,OOP,Polymorphism,98,advanced,Encapsulation
+214,OS,Scheduling,12,beginner,File Systems
+215,Data Structures,Arrays,66,intermediate,Linked List
+216,OS,Scheduling,31,beginner,File Systems
+217,OOP,Objects,28,beginner,Classes
+218,OOP,Inheritance,96,advanced,Polymorphism
+219,Python,Variables,80,advanced,Loops
+220,AI/ML,SVM,58,intermediate,KNN
+221,Java,Variables,100,advanced,Loops
+222,DSA,Trees,16,beginner,Queues
+223,AI/ML,KNN,96,advanced,Neural Networks
+224,OOP,Abstraction,43,intermediate,Interfaces
+225,Java,Methods,67,intermediate,OOP Concepts
+226,OS,Deadlocks,25,beginner,Scheduling
+227,DSA,Sorting Algorithms,87,advanced,Sorting Algorithms
+228,Data Structures,Hash Table,59,intermediate,Heap
+229,Python,Variables,68,intermediate,Loops
+230,DSA,Arrays,83,advanced,Linked List
+231,OOP,Abstraction,81,advanced,Interfaces
+232,DSA,Linked List,6,beginner,Arrays
+233,Java,OOP Concepts,36,beginner,Methods
+234,OOP,Encapsulation,29,beginner,Polymorphism
+235,OOP,Polymorphism,38,beginner,Inheritance
+236,Data Structures,Hash Table,46,intermediate,Heap
+237,OS,Scheduling,52,intermediate,Deadlocks
+238,Python,Modules,51,intermediate,Error Handling
+239,Data Structures,Linked List,43,intermediate,Stack
+240,OS,Memory Management,23,beginner,Threads
+241,DSA,Trees,10,beginner,Queues
+242,DSA,Linked List,76,advanced,Stacks
+243,AI/ML,KNN,69,intermediate,Neural Networks
+244,AI/ML,Logistic Regression,97,advanced,Decision Trees
+245,DSA,Stacks,47,intermediate,Queues
+246,Java,OOP Concepts,34,beginner,Methods
+247,Java,Exceptions,63,intermediate,Streams
+248,DSA,Linked List,4,beginner,Arrays
+249,Java,Variables,21,beginner,Variables
+250,OS,Virtual Memory,36,beginner,Deadlocks
+251,OS,File Systems,97,advanced,Scheduling
+252,OOP,Polymorphism,1,beginner,Inheritance
+253,AI/ML,Linear Regression,75,advanced,Logistic Regression
+254,DSA,Stacks,67,intermediate,Queues
+255,OS,Memory Management,95,advanced,File Systems
+256,OOP,Objects,13,beginner,Classes
+257,Java,Methods,54,intermediate,OOP Concepts
+258,Data Structures,Stack,6,beginner,Linked List
+259,OS,Processes,10,beginner,Processes
+260,Data Structures,Hash Table,98,advanced,Heap
+261,Data Structures,Stack,97,advanced,Queue
+262,AI/ML,SVM,76,advanced,KNN
+263,Python,File Handling,78,advanced,Modules
+264,DSA,Queues,19,beginner,Stacks
+265,DSA,Queues,41,intermediate,Trees
+266,Data Structures,Hash Table,81,advanced,Heap
+267,Data Structures,Linked List,12,beginner,Arrays
+268,Python,File Handling,21,beginner,OOP Basics
+269,Python,Modules,62,intermediate,Error Handling
+270,OOP,Abstraction,4,beginner,Encapsulation
+271,OOP,Inheritance,81,advanced,Polymorphism
+272,OOP,Encapsulation,100,advanced,Abstraction
+273,OOP,Encapsulation,27,beginner,Polymorphism
+274,OS,Virtual Memory,0,beginner,Deadlocks
+275,AI/ML,Decision Trees,37,beginner,Logistic Regression
+276,Python,File Handling,21,beginner,OOP Basics
+277,Java,Exceptions,87,advanced,Streams
+278,Java,Loops,58,intermediate,Methods
+279,AI/ML,Decision Trees,8,beginner,Logistic Regression
+280,Data Structures,Queue,13,beginner,Stack
+281,OOP,Encapsulation,65,intermediate,Abstraction
+282,Java,Streams,10,beginner,Exceptions
+283,Python,Error Handling,18,beginner,Modules
+284,DSA,Graphs,20,beginner,Trees
+285,AI/ML,SVM,73,advanced,KNN
+286,OS,Memory Management,2,beginner,Threads
+287,OS,File Systems,29,beginner,Memory Management
+288,OS,Deadlocks,6,beginner,Scheduling
+289,Python,Loops,31,beginner,Variables
+290,OS,Threads,34,beginner,Processes
+291,Java,OOP Concepts,3,beginner,Methods
+292,Python,Error Handling,19,beginner,Modules
+293,DSA,Stacks,72,advanced,Queues
+294,Java,Streams,64,intermediate,Streams
+295,OS,Memory Management,7,beginner,Threads
+296,OS,Processes,38,beginner,Processes
+297,Java,Collections,67,intermediate,Exceptions
+298,Data Structures,Graph,18,beginner,Heap
+299,OOP,Interfaces,54,intermediate,Interfaces
+300,Python,Variables,50,intermediate,Loops
+301,AI/ML,Clustering,0,beginner,Neural Networks
+302,Data Structures,Graph,98,advanced,Graph
+303,OOP,Encapsulation,89,advanced,Abstraction
+304,Java,Loops,35,beginner,Variables
+305,Data Structures,Graph,85,advanced,Graph
+306,OOP,Classes,10,beginner,Classes
+307,AI/ML,Linear Regression,79,advanced,Logistic Regression
+308,Python,Functions,13,beginner,Loops
+309,OS,Memory Management,72,advanced,File Systems
+310,OOP,Classes,40,beginner,Classes
+311,AI/ML,Linear Regression,98,advanced,Logistic Regression
+312,AI/ML,Logistic Regression,89,advanced,Decision Trees
+313,OOP,Objects,29,beginner,Classes
+314,OOP,Encapsulation,73,advanced,Abstraction
+315,DSA,Stacks,3,beginner,Linked List
+316,DSA,Sorting Algorithms,88,advanced,Sorting Algorithms
+317,DSA,Graphs,27,beginner,Trees
+318,AI/ML,Logistic Regression,22,beginner,Linear Regression
+319,Python,Loops,90,advanced,Functions
+320,OOP,Interfaces,19,beginner,Abstraction
+321,Python,Loops,90,advanced,Functions
+322,OS,Scheduling,17,beginner,File Systems
+323,AI/ML,Clustering,6,beginner,Neural Networks
+324,Java,Methods,7,beginner,Loops
+325,OS,Memory Management,36,beginner,Threads
+326,Data Structures,Graph,42,intermediate,Graph
+327,AI/ML,KNN,62,intermediate,Neural Networks
+328,AI/ML,Linear Regression,63,intermediate,Logistic Regression
+329,OS,Scheduling,100,advanced,Deadlocks
+330,AI/ML,Neural Networks,16,beginner,KNN
+331,Python,File Handling,68,intermediate,Modules
+332,OS,Virtual Memory,51,intermediate,Virtual Memory
+333,DSA,Queues,55,intermediate,Trees
+334,OS,Deadlocks,6,beginner,Scheduling
+335,OS,Processes,90,advanced,Threads
+336,AI/ML,Clustering,68,intermediate,Clustering
+337,DSA,Graphs,69,intermediate,Sorting Algorithms
+338,OS,Virtual Memory,2,beginner,Deadlocks
+339,OS,Scheduling,58,intermediate,Deadlocks
+340,Python,Loops,88,advanced,Functions
+341,OS,Virtual Memory,99,advanced,Virtual Memory
+342,AI/ML,SVM,63,intermediate,KNN
+343,DSA,Linked List,32,beginner,Arrays
+344,Java,Methods,29,beginner,Loops
+345,Data Structures,Graph,40,beginner,Heap
+346,OOP,Inheritance,95,advanced,Polymorphism
+347,AI/ML,Logistic Regression,36,beginner,Linear Regression
+348,Data Structures,Graph,5,beginner,Heap
+349,DSA,Trees,51,intermediate,Graphs
+350,Data Structures,Linked List,25,beginner,Arrays
+351,AI/ML,Linear Regression,68,intermediate,Logistic Regression
+352,OOP,Inheritance,50,intermediate,Polymorphism
+353,OS,Threads,37,beginner,Processes
+354,Data Structures,Hash Table,92,advanced,Heap
+355,Data Structures,Graph,61,intermediate,Graph
+356,OS,Memory Management,66,intermediate,File Systems
+357,DSA,Trees,93,advanced,Graphs
+358,Python,Functions,71,advanced,OOP Basics
+359,OS,Scheduling,76,advanced,Deadlocks
+360,OS,Deadlocks,82,advanced,Virtual Memory
+361,AI/ML,SVM,80,advanced,KNN
+362,OOP,Encapsulation,76,advanced,Abstraction
+363,DSA,Arrays,57,intermediate,Linked List
+364,Java,Streams,8,beginner,Exceptions
+365,AI/ML,SVM,52,intermediate,KNN
+366,Java,Streams,30,beginner,Exceptions
+367,Java,Collections,97,advanced,Exceptions
+368,Data Structures,Graph,35,beginner,Heap
+369,Python,Error Handling,29,beginner,Modules
+370,AI/ML,Logistic Regression,66,intermediate,Decision Trees
+371,Python,OOP Basics,99,advanced,File Handling
+372,OOP,Objects,19,beginner,Classes
+373,Java,Methods,98,advanced,OOP Concepts
+374,Data Structures,Arrays,1,beginner,Arrays
+375,OOP,Inheritance,95,advanced,Polymorphism
+376,AI/ML,Clustering,75,advanced,Clustering
+377,Java,OOP Concepts,55,intermediate,Collections
+378,Java,Collections,27,beginner,OOP Concepts
+379,Java,OOP Concepts,86,advanced,Collections
+380,Data Structures,Queue,49,intermediate,Hash Table
+381,DSA,Arrays,54,intermediate,Linked List
+382,DSA,Linked List,94,advanced,Stacks
+383,OOP,Objects,13,beginner,Classes
+384,OS,Processes,58,intermediate,Threads
+385,AI/ML,Neural Networks,26,beginner,KNN
+386,Java,Loops,24,beginner,Variables
+387,OS,Scheduling,90,advanced,Deadlocks
+388,AI/ML,Decision Trees,84,advanced,SVM
+389,Data Structures,Queue,38,beginner,Stack
+390,OS,Virtual Memory,75,advanced,Virtual Memory
+391,Python,Functions,40,beginner,Loops
+392,AI/ML,SVM,49,intermediate,KNN
+393,Python,Loops,71,advanced,Functions
+394,OOP,Encapsulation,68,intermediate,Abstraction
+395,OS,Processes,47,intermediate,Threads
+396,OOP,Interfaces,31,beginner,Abstraction
+397,OS,Processes,20,beginner,Processes
+398,AI/ML,Decision Trees,75,advanced,SVM
+399,OS,Deadlocks,36,beginner,Scheduling
+400,Java,Collections,31,beginner,OOP Concepts
+401,Java,Collections,94,advanced,Exceptions
+402,Java,Collections,26,beginner,OOP Concepts
+403,AI/ML,SVM,44,intermediate,KNN
+404,Java,Exceptions,55,intermediate,Streams
+405,Data Structures,Linked List,66,intermediate,Stack
+406,DSA,Linked List,95,advanced,Stacks
+407,Java,Loops,50,intermediate,Methods
+408,AI/ML,Clustering,29,beginner,Neural Networks
+409,DSA,Stacks,32,beginner,Linked List
+410,AI/ML,Neural Networks,10,beginner,KNN
+411,Python,Modules,10,beginner,File Handling
+412,DSA,Sorting Algorithms,3,beginner,Graphs
+413,DSA,Graphs,93,advanced,Sorting Algorithms
+414,AI/ML,Decision Trees,85,advanced,SVM
+415,OOP,Abstraction,69,intermediate,Interfaces
+416,Data Structures,Graph,82,advanced,Graph
+417,Data Structures,Arrays,26,beginner,Arrays
+418,OOP,Abstraction,37,beginner,Encapsulation
+419,OOP,Objects,84,advanced,Inheritance
+420,Data Structures,Stack,44,intermediate,Queue
+421,AI/ML,Clustering,35,beginner,Neural Networks
+422,OOP,Abstraction,40,beginner,Encapsulation
+423,Data Structures,Arrays,3,beginner,Arrays
+424,AI/ML,SVM,20,beginner,Decision Trees
+425,DSA,Arrays,88,advanced,Linked List
+426,OS,Deadlocks,35,beginner,Scheduling
+427,Python,OOP Basics,52,intermediate,File Handling
+428,OS,Scheduling,14,beginner,File Systems
+429,OOP,Abstraction,39,beginner,Encapsulation
+430,OOP,Abstraction,80,advanced,Interfaces
+431,AI/ML,Linear Regression,23,beginner,Linear Regression
+432,DSA,Sorting Algorithms,39,beginner,Graphs
+433,Java,Variables,8,beginner,Variables
+434,Python,Loops,21,beginner,Variables
+435,OOP,Inheritance,76,advanced,Polymorphism
+436,Java,Streams,94,advanced,Streams
+437,OOP,Classes,41,intermediate,Objects
+438,AI/ML,Linear Regression,7,beginner,Linear Regression
+439,Data Structures,Arrays,2,beginner,Arrays
+440,AI/ML,KNN,79,advanced,Neural Networks
+441,DSA,Sorting Algorithms,89,advanced,Sorting Algorithms
+442,Java,OOP Concepts,96,advanced,Collections
+443,Java,Variables,83,advanced,Loops
+444,Java,Loops,29,beginner,Variables
+445,Data Structures,Arrays,55,intermediate,Linked List
+446,OOP,Classes,46,intermediate,Objects
+447,OS,File Systems,35,beginner,Memory Management
+448,OS,Processes,20,beginner,Processes
+449,OS,File Systems,22,beginner,Memory Management
+450,Python,Variables,58,intermediate,Loops
+451,OOP,Abstraction,99,advanced,Interfaces
+452,Java,Methods,88,advanced,OOP Concepts
+453,Data Structures,Hash Table,40,beginner,Queue
+454,Python,Loops,59,intermediate,Functions
+455,Data Structures,Queue,19,beginner,Stack
+456,Python,Loops,17,beginner,Variables
+457,AI/ML,Neural Networks,54,intermediate,Clustering
+458,DSA,Sorting Algorithms,93,advanced,Sorting Algorithms
+459,Java,Loops,32,beginner,Variables
+460,DSA,Queues,38,beginner,Stacks
+461,AI/ML,Linear Regression,39,beginner,Linear Regression
+462,OOP,Classes,45,intermediate,Objects
+463,Python,Variables,68,intermediate,Loops
+464,Java,Loops,16,beginner,Variables
+465,DSA,Queues,33,beginner,Stacks
+466,AI/ML,Logistic Regression,8,beginner,Linear Regression
+467,OS,Deadlocks,2,beginner,Scheduling
+468,Java,Methods,68,intermediate,OOP Concepts
+469,Python,File Handling,54,intermediate,Modules
+470,Java,Streams,2,beginner,Exceptions
+471,OS,Virtual Memory,72,advanced,Virtual Memory
+472,OS,Virtual Memory,75,advanced,Virtual Memory
+473,AI/ML,SVM,60,intermediate,KNN
+474,DSA,Sorting Algorithms,43,intermediate,Sorting Algorithms
+475,OOP,Encapsulation,37,beginner,Polymorphism
+476,Java,OOP Concepts,43,intermediate,Collections
+477,Java,Exceptions,31,beginner,Collections
+478,Java,Exceptions,93,advanced,Streams
+479,DSA,Sorting Algorithms,97,advanced,Sorting Algorithms
+480,Python,Modules,69,intermediate,Error Handling
+481,DSA,Arrays,22,beginner,Arrays
+482,OOP,Interfaces,29,beginner,Abstraction
+483,AI/ML,Decision Trees,65,intermediate,SVM
+484,OOP,Polymorphism,55,intermediate,Encapsulation
+485,AI/ML,Logistic Regression,17,beginner,Linear Regression
+486,Java,Methods,30,beginner,Loops
+487,DSA,Queues,29,beginner,Stacks
+488,Java,Methods,16,beginner,Loops
+489,OOP,Objects,47,intermediate,Inheritance
+490,Python,Variables,74,advanced,Loops
+491,AI/ML,Decision Trees,4,beginner,Logistic Regression
+492,DSA,Queues,77,advanced,Trees
+493,AI/ML,Logistic Regression,97,advanced,Decision Trees
+494,DSA,Linked List,8,beginner,Arrays
+495,OOP,Objects,60,intermediate,Inheritance
+496,Python,File Handling,53,intermediate,Modules
+497,Python,OOP Basics,41,intermediate,File Handling
+498,OOP,Classes,27,beginner,Classes
+499,Data Structures,Graph,25,beginner,Heap
+500,OOP,Inheritance,7,beginner,Objects
+501,DSA,Linked List,88,advanced,Stacks
+502,Java,Collections,83,advanced,Exceptions
+503,Java,Streams,7,beginner,Exceptions
+504,Java,Exceptions,87,advanced,Streams
+505,AI/ML,KNN,74,advanced,Neural Networks
+506,AI/ML,Linear Regression,6,beginner,Linear Regression
+507,Data Structures,Hash Table,66,intermediate,Heap
+508,OOP,Encapsulation,17,beginner,Polymorphism
+509,Data Structures,Graph,29,beginner,Heap
+510,Java,Exceptions,73,advanced,Streams
+511,DSA,Queues,91,advanced,Trees
+512,Python,Error Handling,71,advanced,Error Handling
+513,Python,Error Handling,83,advanced,Error Handling
+514,OOP,Abstraction,6,beginner,Encapsulation
+515,OS,Scheduling,88,advanced,Deadlocks
+516,AI/ML,Logistic Regression,26,beginner,Linear Regression
+517,Data Structures,Stack,26,beginner,Linked List
+518,Data Structures,Queue,37,beginner,Stack
+519,AI/ML,Decision Trees,74,advanced,SVM
+520,Python,Functions,86,advanced,OOP Basics
+521,OOP,Interfaces,64,intermediate,Interfaces
+522,DSA,Trees,42,intermediate,Graphs
+523,OOP,Abstraction,57,intermediate,Interfaces
+524,DSA,Linked List,93,advanced,Stacks
+525,Python,Modules,79,advanced,Error Handling
+526,Java,Collections,17,beginner,OOP Concepts
+527,OOP,Encapsulation,23,beginner,Polymorphism
+528,AI/ML,Logistic Regression,24,beginner,Linear Regression
+529,OS,Deadlocks,68,intermediate,Virtual Memory
+530,Java,Methods,29,beginner,Loops
+531,AI/ML,Linear Regression,61,intermediate,Logistic Regression
+532,AI/ML,Linear Regression,56,intermediate,Logistic Regression
+533,AI/ML,KNN,1,beginner,SVM
+534,AI/ML,SVM,3,beginner,Decision Trees
+535,Python,OOP Basics,27,beginner,Functions
+536,AI/ML,Clustering,3,beginner,Neural Networks
+537,OOP,Objects,60,intermediate,Inheritance
+538,OS,Processes,69,intermediate,Threads
+539,Java,Streams,97,advanced,Streams
+540,OS,Processes,87,advanced,Threads
+541,AI/ML,SVM,37,beginner,Decision Trees
+542,DSA,Graphs,40,beginner,Trees
+543,AI/ML,KNN,9,beginner,SVM
+544,Data Structures,Heap,9,beginner,Hash Table
+545,DSA,Graphs,80,advanced,Sorting Algorithms
+546,DSA,Stacks,72,advanced,Queues
+547,OOP,Polymorphism,98,advanced,Encapsulation
+548,Java,Variables,96,advanced,Loops
+549,OS,Memory Management,72,advanced,File Systems
+550,Data Structures,Graph,20,beginner,Heap
+551,Java,Variables,3,beginner,Variables
+552,Data Structures,Linked List,51,intermediate,Stack
+553,OOP,Inheritance,64,intermediate,Polymorphism
+554,AI/ML,KNN,10,beginner,SVM
+555,OS,File Systems,72,advanced,Scheduling
+556,DSA,Graphs,52,intermediate,Sorting Algorithms
+557,DSA,Linked List,85,advanced,Stacks
+558,DSA,Trees,32,beginner,Queues
+559,OOP,Objects,54,intermediate,Inheritance
+560,Python,Variables,73,advanced,Loops
+561,DSA,Arrays,91,advanced,Linked List
+562,OOP,Classes,38,beginner,Classes
+563,Java,Streams,81,advanced,Streams
+564,AI/ML,Clustering,95,advanced,Clustering
+565,Data Structures,Queue,42,intermediate,Hash Table
+566,DSA,Queues,47,intermediate,Trees
+567,DSA,Graphs,11,beginner,Trees
+568,Python,File Handling,3,beginner,OOP Basics
+569,OOP,Polymorphism,29,beginner,Inheritance
+570,DSA,Sorting Algorithms,19,beginner,Graphs
+571,Data Structures,Arrays,41,intermediate,Linked List
+572,AI/ML,Decision Trees,96,advanced,SVM
+573,Python,Error Handling,41,intermediate,Error Handling
+574,AI/ML,SVM,56,intermediate,KNN
+575,Data Structures,Stack,6,beginner,Linked List
+576,DSA,Stacks,24,beginner,Linked List
+577,AI/ML,Clustering,56,intermediate,Clustering
+578,OS,Memory Management,68,intermediate,File Systems
+579,OS,Threads,49,intermediate,Memory Management
+580,Data Structures,Stack,58,intermediate,Queue
+581,OS,Scheduling,87,advanced,Deadlocks
+582,AI/ML,Neural Networks,36,beginner,KNN
+583,AI/ML,Linear Regression,87,advanced,Logistic Regression
+584,Java,Methods,36,beginner,Loops
+585,Java,Collections,0,beginner,OOP Concepts
+586,DSA,Graphs,6,beginner,Trees
+587,AI/ML,Clustering,12,beginner,Neural Networks
+588,OS,Virtual Memory,97,advanced,Virtual Memory
+589,Data Structures,Arrays,61,intermediate,Linked List
+590,OS,Deadlocks,14,beginner,Scheduling
+591,Python,OOP Basics,14,beginner,Functions
+592,Data Structures,Heap,91,advanced,Graph
+593,Data Structures,Arrays,45,intermediate,Linked List
+594,Java,Exceptions,94,advanced,Streams
+595,Java,Exceptions,64,intermediate,Streams
+596,Python,Modules,85,advanced,Error Handling
+597,DSA,Queues,89,advanced,Trees
+598,AI/ML,KNN,91,advanced,Neural Networks
+599,OOP,Polymorphism,5,beginner,Inheritance
+600,Data Structures,Linked List,100,advanced,Stack
+601,AI/ML,Decision Trees,48,intermediate,SVM
+602,OS,File Systems,65,intermediate,Scheduling
+603,OS,File Systems,55,intermediate,Scheduling
+604,Java,Collections,99,advanced,Exceptions
+605,DSA,Linked List,92,advanced,Stacks
+606,Java,OOP Concepts,18,beginner,Methods
+607,OS,Scheduling,1,beginner,File Systems
+608,DSA,Trees,25,beginner,Queues
+609,Java,Loops,92,advanced,Methods
+610,AI/ML,Linear Regression,11,beginner,Linear Regression
+611,AI/ML,Neural Networks,86,advanced,Clustering
+612,OS,File Systems,38,beginner,Memory Management
+613,OOP,Inheritance,9,beginner,Objects
+614,DSA,Stacks,26,beginner,Linked List
+615,AI/ML,Linear Regression,55,intermediate,Logistic Regression
+616,DSA,Trees,61,intermediate,Graphs
+617,Java,Variables,91,advanced,Loops
+618,Data Structures,Hash Table,14,beginner,Queue
+619,DSA,Trees,95,advanced,Graphs
+620,OOP,Objects,32,beginner,Classes
+621,Java,Collections,53,intermediate,Exceptions
+622,OOP,Inheritance,0,beginner,Objects
+623,OS,Processes,14,beginner,Processes
+624,Data Structures,Heap,6,beginner,Hash Table
+625,OS,Processes,82,advanced,Threads
+626,Java,Variables,24,beginner,Variables
+627,DSA,Trees,8,beginner,Queues
+628,AI/ML,Clustering,35,beginner,Neural Networks
+629,DSA,Sorting Algorithms,45,intermediate,Sorting Algorithms
+630,DSA,Queues,13,beginner,Stacks
+631,OOP,Classes,92,advanced,Objects
+632,AI/ML,Decision Trees,1,beginner,Logistic Regression
+633,DSA,Queues,60,intermediate,Trees
+634,Python,Loops,37,beginner,Variables
+635,DSA,Graphs,90,advanced,Sorting Algorithms
+636,Python,Modules,96,advanced,Error Handling
+637,OS,Threads,32,beginner,Processes
+638,OS,Virtual Memory,93,advanced,Virtual Memory
+639,OOP,Classes,88,advanced,Objects
+640,OOP,Inheritance,52,intermediate,Polymorphism
+641,OOP,Classes,68,intermediate,Objects
+642,Java,Exceptions,88,advanced,Streams
+643,DSA,Linked List,57,intermediate,Stacks
+644,OOP,Classes,87,advanced,Objects
+645,Python,Error Handling,61,intermediate,Error Handling
+646,Data Structures,Hash Table,37,beginner,Queue
+647,Python,Modules,6,beginner,File Handling
+648,AI/ML,KNN,39,beginner,SVM
+649,Java,Collections,73,advanced,Exceptions
+650,DSA,Arrays,34,beginner,Arrays
+651,OOP,Encapsulation,35,beginner,Polymorphism
+652,OOP,Objects,47,intermediate,Inheritance
+653,OS,Memory Management,3,beginner,Threads
+654,Data Structures,Queue,39,beginner,Stack
+655,DSA,Arrays,12,beginner,Arrays
+656,Python,Modules,6,beginner,File Handling
+657,DSA,Linked List,47,intermediate,Stacks
+658,OOP,Inheritance,9,beginner,Objects
+659,OOP,Objects,12,beginner,Classes
+660,Python,Modules,72,advanced,Error Handling
+661,OOP,Encapsulation,27,beginner,Polymorphism
+662,OOP,Interfaces,76,advanced,Interfaces
+663,DSA,Graphs,84,advanced,Sorting Algorithms
+664,DSA,Sorting Algorithms,49,intermediate,Sorting Algorithms
+665,OS,Threads,53,intermediate,Memory Management
+666,Data Structures,Stack,11,beginner,Linked List
+667,AI/ML,Logistic Regression,60,intermediate,Decision Trees
+668,Python,Error Handling,65,intermediate,Error Handling
+669,OOP,Inheritance,39,beginner,Objects
+670,Data Structures,Queue,77,advanced,Hash Table
+671,Python,Loops,98,advanced,Functions
+672,Python,Variables,5,beginner,Variables
+673,AI/ML,Decision Trees,58,intermediate,SVM
+674,AI/ML,SVM,35,beginner,Decision Trees
+675,Java,Variables,90,advanced,Loops
+676,OS,Threads,51,intermediate,Memory Management
+677,Data Structures,Linked List,6,beginner,Arrays
+678,AI/ML,KNN,37,beginner,SVM
+679,Python,Error Handling,88,advanced,Error Handling
+680,DSA,Stacks,89,advanced,Queues
+681,OOP,Classes,46,intermediate,Objects
+682,Data Structures,Hash Table,46,intermediate,Heap
+683,OOP,Encapsulation,84,advanced,Abstraction
+684,AI/ML,Neural Networks,62,intermediate,Clustering
+685,Data Structures,Graph,45,intermediate,Graph
+686,Data Structures,Heap,0,beginner,Hash Table
+687,AI/ML,Logistic Regression,89,advanced,Decision Trees
+688,Java,OOP Concepts,69,intermediate,Collections
+689,OOP,Interfaces,52,intermediate,Interfaces
+690,Python,Error Handling,20,beginner,Modules
+691,Python,Error Handling,49,intermediate,Error Handling
+692,OOP,Inheritance,14,beginner,Objects
+693,Data Structures,Stack,17,beginner,Linked List
+694,OOP,Inheritance,27,beginner,Objects
+695,DSA,Stacks,9,beginner,Linked List
+696,OS,Threads,26,beginner,Processes
+697,DSA,Queues,42,intermediate,Trees
+698,OS,Scheduling,57,intermediate,Deadlocks
+699,OOP,Interfaces,0,beginner,Abstraction
+700,Python,Error Handling,29,beginner,Modules
+701,OOP,Objects,28,beginner,Classes
+702,DSA,Sorting Algorithms,96,advanced,Sorting Algorithms
+703,DSA,Queues,2,beginner,Stacks
+704,AI/ML,SVM,51,intermediate,KNN
+705,OOP,Polymorphism,99,advanced,Encapsulation
+706,Python,Functions,79,advanced,OOP Basics
+707,AI/ML,Logistic Regression,50,intermediate,Decision Trees
+708,DSA,Queues,75,advanced,Trees
+709,Python,OOP Basics,75,advanced,File Handling
+710,OOP,Abstraction,59,intermediate,Interfaces
+711,Java,Variables,44,intermediate,Loops
+712,AI/ML,Logistic Regression,59,intermediate,Decision Trees
+713,Java,Methods,30,beginner,Loops
+714,OOP,Inheritance,71,advanced,Polymorphism
+715,AI/ML,Linear Regression,82,advanced,Logistic Regression
+716,OS,Threads,93,advanced,Memory Management
+717,Data Structures,Stack,57,intermediate,Queue
+718,Java,Variables,53,intermediate,Loops
+719,OS,File Systems,53,intermediate,Scheduling
+720,Data Structures,Arrays,20,beginner,Arrays
+721,Data Structures,Hash Table,77,advanced,Heap
+722,OS,File Systems,22,beginner,Memory Management
+723,DSA,Sorting Algorithms,90,advanced,Sorting Algorithms
+724,Python,Error Handling,35,beginner,Modules
+725,Data Structures,Linked List,52,intermediate,Stack
+726,Python,Loops,91,advanced,Functions
+727,DSA,Linked List,38,beginner,Arrays
+728,OOP,Encapsulation,78,advanced,Abstraction
+729,AI/ML,Clustering,84,advanced,Clustering
+730,Java,Exceptions,67,intermediate,Streams
+731,AI/ML,Clustering,47,intermediate,Clustering
+732,Data Structures,Linked List,96,advanced,Stack
+733,Data Structures,Stack,85,advanced,Queue
+734,OS,Processes,40,beginner,Processes
+735,Java,OOP Concepts,7,beginner,Methods
+736,DSA,Arrays,16,beginner,Arrays
+737,AI/ML,Logistic Regression,51,intermediate,Decision Trees
+738,AI/ML,Neural Networks,20,beginner,KNN
+739,Python,Modules,81,advanced,Error Handling
+740,Python,Modules,9,beginner,File Handling
+741,DSA,Queues,45,intermediate,Trees
+742,Data Structures,Stack,11,beginner,Linked List
+743,Python,Error Handling,64,intermediate,Error Handling
+744,OOP,Interfaces,96,advanced,Interfaces
+745,Data Structures,Hash Table,81,advanced,Heap
+746,OOP,Polymorphism,95,advanced,Encapsulation
+747,OOP,Polymorphism,28,beginner,Inheritance
+748,OS,Processes,45,intermediate,Threads
+749,AI/ML,Logistic Regression,30,beginner,Linear Regression
+750,Python,Error Handling,64,intermediate,Error Handling
+751,Data Structures,Linked List,71,advanced,Stack
+752,DSA,Graphs,28,beginner,Trees
+753,DSA,Stacks,26,beginner,Linked List
+754,Python,OOP Basics,90,advanced,File Handling
+755,AI/ML,SVM,99,advanced,KNN
+756,OS,Scheduling,57,intermediate,Deadlocks
+757,Python,Functions,12,beginner,Loops
+758,DSA,Linked List,98,advanced,Stacks
+759,Data Structures,Stack,77,advanced,Queue
+760,OS,Processes,4,beginner,Processes
+761,Python,Error Handling,2,beginner,Modules
+762,AI/ML,Decision Trees,80,advanced,SVM
+763,Data Structures,Linked List,21,beginner,Arrays
+764,OOP,Inheritance,4,beginner,Objects
+765,OS,Virtual Memory,79,advanced,Virtual Memory
+766,Python,Variables,68,intermediate,Loops
+767,Python,OOP Basics,45,intermediate,File Handling
+768,AI/ML,Linear Regression,38,beginner,Linear Regression
+769,OS,Memory Management,58,intermediate,File Systems
+770,Python,Functions,39,beginner,Loops
+771,Java,OOP Concepts,26,beginner,Methods
+772,OOP,Interfaces,79,advanced,Interfaces
+773,Python,Variables,83,advanced,Loops
+774,Python,Functions,73,advanced,OOP Basics
+775,DSA,Linked List,24,beginner,Arrays
+776,AI/ML,Neural Networks,68,intermediate,Clustering
+777,Data Structures,Stack,8,beginner,Linked List
+778,OS,Virtual Memory,11,beginner,Deadlocks
+779,OOP,Encapsulation,53,intermediate,Abstraction
+780,Data Structures,Hash Table,49,intermediate,Heap
+781,Java,Streams,97,advanced,Streams
+782,Data Structures,Graph,11,beginner,Heap
+783,OS,Scheduling,87,advanced,Deadlocks
+784,Data Structures,Heap,15,beginner,Hash Table
+785,DSA,Sorting Algorithms,10,beginner,Graphs
+786,Java,Variables,64,intermediate,Loops
+787,Java,Methods,83,advanced,OOP Concepts
+788,Python,Error Handling,12,beginner,Modules
+789,AI/ML,Decision Trees,49,intermediate,SVM
+790,OOP,Encapsulation,22,beginner,Polymorphism
+791,Data Structures,Hash Table,49,intermediate,Heap
+792,Python,OOP Basics,66,intermediate,File Handling
+793,Data Structures,Heap,81,advanced,Graph
+794,Java,Loops,76,advanced,Methods
+795,AI/ML,Linear Regression,52,intermediate,Logistic Regression
+796,Python,Functions,66,intermediate,OOP Basics
+797,Data Structures,Hash Table,74,advanced,Heap
+798,OS,Virtual Memory,53,intermediate,Virtual Memory
+799,Data Structures,Stack,51,intermediate,Queue
+800,Java,Exceptions,28,beginner,Collections
+801,Java,Collections,17,beginner,OOP Concepts
+802,Data Structures,Arrays,10,beginner,Arrays
+803,OOP,Polymorphism,39,beginner,Inheritance
+804,AI/ML,Clustering,29,beginner,Neural Networks
+805,DSA,Trees,23,beginner,Queues
+806,OS,Scheduling,88,advanced,Deadlocks
+807,Java,Loops,21,beginner,Variables
+808,Python,OOP Basics,48,intermediate,File Handling
+809,Python,Functions,53,intermediate,OOP Basics
+810,AI/ML,SVM,31,beginner,Decision Trees
+811,OS,Memory Management,58,intermediate,File Systems
+812,AI/ML,Logistic Regression,13,beginner,Linear Regression
+813,DSA,Graphs,80,advanced,Sorting Algorithms
+814,Data Structures,Arrays,93,advanced,Linked List
+815,OOP,Polymorphism,68,intermediate,Encapsulation
+816,DSA,Graphs,99,advanced,Sorting Algorithms
+817,AI/ML,Linear Regression,50,intermediate,Logistic Regression
+818,Data Structures,Queue,36,beginner,Stack
+819,AI/ML,SVM,90,advanced,KNN
+820,OOP,Abstraction,55,intermediate,Interfaces
+821,OS,Memory Management,29,beginner,Threads
+822,AI/ML,Neural Networks,84,advanced,Clustering
+823,OS,Processes,21,beginner,Processes
+824,OOP,Inheritance,39,beginner,Objects
+825,OOP,Objects,92,advanced,Inheritance
+826,AI/ML,SVM,44,intermediate,KNN
+827,Java,Loops,82,advanced,Methods
+828,Data Structures,Graph,67,intermediate,Graph
+829,OS,Deadlocks,0,beginner,Scheduling
+830,Python,Modules,77,advanced,Error Handling
+831,OS,Scheduling,62,intermediate,Deadlocks
+832,Java,Variables,32,beginner,Variables
+833,Data Structures,Queue,61,intermediate,Hash Table
+834,OS,Threads,52,intermediate,Memory Management
+835,OOP,Inheritance,9,beginner,Objects
+836,Python,Functions,30,beginner,Loops
+837,DSA,Stacks,82,advanced,Queues
+838,OOP,Inheritance,93,advanced,Polymorphism
+839,Java,OOP Concepts,92,advanced,Collections
+840,DSA,Arrays,69,intermediate,Linked List
+841,OOP,Inheritance,40,beginner,Objects
+842,Data Structures,Linked List,56,intermediate,Stack
+843,Data Structures,Linked List,3,beginner,Arrays
+844,AI/ML,Clustering,78,advanced,Clustering
+845,Python,Functions,69,intermediate,OOP Basics
+846,Java,Loops,39,beginner,Variables
+847,Java,Streams,72,advanced,Streams
+848,OS,Memory Management,13,beginner,Threads
+849,DSA,Linked List,13,beginner,Arrays
+850,OOP,Encapsulation,76,advanced,Abstraction
+851,OOP,Abstraction,92,advanced,Interfaces
+852,Data Structures,Stack,47,intermediate,Queue
+853,Python,Loops,26,beginner,Variables
+854,AI/ML,Linear Regression,73,advanced,Logistic Regression
+855,AI/ML,Decision Trees,74,advanced,SVM
+856,Python,Error Handling,87,advanced,Error Handling
+857,AI/ML,Linear Regression,83,advanced,Logistic Regression
+858,Java,OOP Concepts,95,advanced,Collections
+859,OOP,Abstraction,18,beginner,Encapsulation
+860,Python,Functions,53,intermediate,OOP Basics
+861,OOP,Polymorphism,19,beginner,Inheritance
+862,Data Structures,Arrays,26,beginner,Arrays
+863,OOP,Classes,43,intermediate,Objects
+864,OS,Deadlocks,54,intermediate,Virtual Memory
+865,Python,File Handling,76,advanced,Modules
+866,Python,File Handling,66,intermediate,Modules
+867,Data Structures,Graph,30,beginner,Heap
+868,Data Structures,Linked List,55,intermediate,Stack
+869,AI/ML,SVM,92,advanced,KNN
+870,Python,Loops,2,beginner,Variables
+871,OOP,Inheritance,64,intermediate,Polymorphism
+872,OOP,Interfaces,82,advanced,Interfaces
+873,AI/ML,Logistic Regression,12,beginner,Linear Regression
+874,OOP,Objects,28,beginner,Classes
+875,Python,Loops,73,advanced,Functions
+876,OOP,Interfaces,39,beginner,Abstraction
+877,Python,Error Handling,76,advanced,Error Handling
+878,Java,Methods,36,beginner,Loops
+879,Data Structures,Linked List,81,advanced,Stack
+880,OS,Memory Management,8,beginner,Threads
+881,Python,File Handling,54,intermediate,Modules
+882,DSA,Arrays,35,beginner,Arrays
+883,Python,Loops,8,beginner,Variables
+884,DSA,Linked List,25,beginner,Arrays
+885,OS,Deadlocks,91,advanced,Virtual Memory
+886,OOP,Inheritance,58,intermediate,Polymorphism
+887,Data Structures,Stack,91,advanced,Queue
+888,Python,File Handling,71,advanced,Modules
+889,OS,Memory Management,73,advanced,File Systems
+890,OOP,Classes,87,advanced,Objects
+891,Python,Modules,90,advanced,Error Handling
+892,Python,Variables,20,beginner,Variables
+893,OS,Processes,29,beginner,Processes
+894,Java,OOP Concepts,97,advanced,Collections
+895,Data Structures,Queue,23,beginner,Stack
+896,Java,OOP Concepts,77,advanced,Collections
+897,OOP,Inheritance,58,intermediate,Polymorphism
+898,AI/ML,Clustering,92,advanced,Clustering
+899,OS,File Systems,63,intermediate,Scheduling
+900,OOP,Objects,0,beginner,Classes
+901,Data Structures,Linked List,98,advanced,Stack
+902,OS,File Systems,32,beginner,Memory Management
+903,Java,Methods,11,beginner,Loops
+904,Python,File Handling,16,beginner,OOP Basics
+905,Python,Modules,90,advanced,Error Handling
+906,Data Structures,Arrays,20,beginner,Arrays
+907,DSA,Stacks,7,beginner,Linked List
+908,OOP,Classes,18,beginner,Classes
+909,OS,Deadlocks,18,beginner,Scheduling
+910,OOP,Interfaces,21,beginner,Abstraction
+911,AI/ML,Decision Trees,29,beginner,Logistic Regression
+912,AI/ML,Linear Regression,68,intermediate,Logistic Regression
+913,OS,Processes,43,intermediate,Threads
+914,Data Structures,Arrays,95,advanced,Linked List
+915,Java,Methods,77,advanced,OOP Concepts
+916,Python,OOP Basics,13,beginner,Functions
+917,OOP,Objects,30,beginner,Classes
+918,AI/ML,Clustering,80,advanced,Clustering
+919,DSA,Graphs,89,advanced,Sorting Algorithms
+920,OS,File Systems,26,beginner,Memory Management
+921,OOP,Inheritance,51,intermediate,Polymorphism
+922,Data Structures,Heap,96,advanced,Graph
+923,OOP,Abstraction,29,beginner,Encapsulation
+924,OS,Deadlocks,85,advanced,Virtual Memory
+925,Java,Collections,45,intermediate,Exceptions
+926,Java,Variables,74,advanced,Loops
+927,AI/ML,Neural Networks,39,beginner,KNN
+928,Data Structures,Linked List,34,beginner,Arrays
+929,Python,Variables,51,intermediate,Loops
+930,Java,Exceptions,29,beginner,Collections
+931,OOP,Encapsulation,32,beginner,Polymorphism
+932,Data Structures,Hash Table,19,beginner,Queue
+933,Python,File Handling,11,beginner,OOP Basics
+934,AI/ML,Logistic Regression,0,beginner,Linear Regression
+935,Data Structures,Queue,66,intermediate,Hash Table
+936,Java,Exceptions,72,advanced,Streams
+937,Java,OOP Concepts,15,beginner,Methods
+938,AI/ML,Decision Trees,46,intermediate,SVM
+939,OOP,Objects,3,beginner,Classes
+940,Java,Loops,34,beginner,Variables
+941,Java,Loops,0,beginner,Variables
+942,Data Structures,Heap,73,advanced,Graph
+943,Python,Modules,42,intermediate,Error Handling
+944,OOP,Interfaces,15,beginner,Abstraction
+945,Data Structures,Hash Table,13,beginner,Queue
+946,OOP,Classes,60,intermediate,Objects
+947,OS,File Systems,18,beginner,Memory Management
+948,OOP,Objects,98,advanced,Inheritance
+949,AI/ML,SVM,37,beginner,Decision Trees
+950,OS,Deadlocks,85,advanced,Virtual Memory
+951,AI/ML,SVM,9,beginner,Decision Trees
+952,DSA,Stacks,22,beginner,Linked List
+953,Python,Variables,33,beginner,Variables
+954,Data Structures,Arrays,84,advanced,Linked List
+955,OS,File Systems,12,beginner,Memory Management
+956,AI/ML,SVM,25,beginner,Decision Trees
+957,Java,Exceptions,21,beginner,Collections
+958,OOP,Polymorphism,85,advanced,Encapsulation
+959,DSA,Linked List,43,intermediate,Stacks
+960,Data Structures,Heap,23,beginner,Hash Table
+961,Data Structures,Stack,82,advanced,Queue
+962,OOP,Classes,93,advanced,Objects
+963,OS,Threads,36,beginner,Processes
+964,Python,Variables,71,advanced,Loops
+965,AI/ML,Decision Trees,3,beginner,Logistic Regression
+966,AI/ML,Linear Regression,88,advanced,Logistic Regression
+967,OOP,Inheritance,95,advanced,Polymorphism
+968,AI/ML,Decision Trees,19,beginner,Logistic Regression
+969,DSA,Queues,97,advanced,Trees
+970,Data Structures,Heap,82,advanced,Graph
+971,OOP,Classes,11,beginner,Classes
+972,AI/ML,Neural Networks,73,advanced,Clustering
+973,DSA,Arrays,74,advanced,Linked List
+974,Data Structures,Arrays,37,beginner,Arrays
+975,OS,File Systems,5,beginner,Memory Management
+976,DSA,Linked List,44,intermediate,Stacks
+977,OS,Scheduling,17,beginner,File Systems
+978,Data Structures,Stack,43,intermediate,Queue
+979,Data Structures,Queue,0,beginner,Stack
+980,OS,Virtual Memory,20,beginner,Deadlocks
+981,Java,Collections,19,beginner,OOP Concepts
+982,Data Structures,Arrays,17,beginner,Arrays
+983,OS,Processes,59,intermediate,Threads
+984,Python,OOP Basics,40,beginner,Functions
+985,OS,Threads,76,advanced,Memory Management
+986,Data Structures,Linked List,99,advanced,Stack
+987,DSA,Sorting Algorithms,56,intermediate,Sorting Algorithms
+988,Data Structures,Heap,51,intermediate,Graph
+989,DSA,Linked List,80,advanced,Stacks
+990,AI/ML,Clustering,39,beginner,Neural Networks
+991,DSA,Queues,89,advanced,Trees
+992,OOP,Inheritance,36,beginner,Objects
+993,Java,Streams,50,intermediate,Streams
+994,DSA,Sorting Algorithms,41,intermediate,Sorting Algorithms
+995,OOP,Interfaces,39,beginner,Abstraction
+996,AI/ML,Neural Networks,26,beginner,KNN
+997,Data Structures,Graph,12,beginner,Heap
+998,Data Structures,Arrays,7,beginner,Arrays
+999,OOP,Classes,72,advanced,Objects
+1000,Python,Error Handling,73,advanced,Error Handling

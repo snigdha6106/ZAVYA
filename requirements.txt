@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+imbalanced-learn
+google-api-python-client
+groq
+youtube-transcript-api
+gTTS
