@@ -8,8 +8,6 @@
 
 Zavya is an AI-powered, multi-modal learning companion designed to solve the "one-size-fits-all" problem in online education. It provides a deeply personalized learning experience by accurately assessing a user's skills and generating adaptive learning plans on the fly.
 
-![Demo Screenshot](demo_screenshot.png)
-*(Note: Replace `demo_screenshot.png` with an actual screenshot of your app's main page)*
 
 ---
 
